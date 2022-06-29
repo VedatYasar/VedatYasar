@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./vedat.svg"></img>
+<img align="left" src="./vedat.svg"></img>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="224" />
 <!--
 **VedatYasar/VedatYasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
